@@ -55,7 +55,7 @@ public class MyMouseAdapter extends MouseAdapter {
 			int gridY2 = myPanel2.getGridY(x2, y2);
 			myPanel2.repaint();
 			break;
-		default:    //Some other button (2 = Middle mouse button, etc.)
+		default:    //Some other button (2 = Middle mouse button,etc.)
 			//Do nothing
 			break;
 		}
